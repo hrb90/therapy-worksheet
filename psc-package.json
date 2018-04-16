@@ -1,0 +1,15 @@
+{
+  "name": "cbt-worksheet",
+  "set": "psc-0.11.7-20180401",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "newtype",
+    "validation",
+    "nonempty",
+    "flare",
+    "psci-support",
+    "console",
+    "eff",
+    "prelude"
+  ]
+}
